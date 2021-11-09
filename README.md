@@ -2,6 +2,8 @@
 
 A 1v1 specialist for robocode with a rather different design
 
+For a more advanced robocode robot, look at [Raven](https://github.com/dsekercioglu/Raven).
+
 <pre>
 Licenced under the  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
@@ -27,3 +29,4 @@ Under the following terms:
 
 See full licencing details here: http://creativecommons.org/licenses/by-nc-sa/3.0/
 </pre>
+
